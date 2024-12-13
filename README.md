@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-HTML, CSS fundamentals, homework 5
+# goit-markup-hw-06
+HTML, CSS fundamentals, homework 6
