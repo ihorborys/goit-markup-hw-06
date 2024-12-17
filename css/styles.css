@@ -1162,10 +1162,6 @@ color: var(--light-slate);
     }
 }
 
-.mobile-menu-btn-icon {
-
-}
-
 .mobile-menu {
     position: fixed;
     /*inset: 0;*/
