@@ -1218,8 +1218,6 @@ color: var(--light-slate);
     cursor: pointer;
 }
 
-
-
 :where(.mobile-menu) .footer-socials-items {
     gap: 40px;
 }
