@@ -134,6 +134,7 @@ body {
     color: var(--iris);
     display: inline-block;
     margin-right: 76px;
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 768px) {
@@ -174,6 +175,7 @@ body {
     display: block;
     padding: 24px 0;
     color: var(--navy-blue);
+    cursor: pointer;
 }
 
 .header-menu-link.active {
@@ -237,6 +239,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    cursor: pointer;
 
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
